@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import UserCard from "./components/UserCard";
 import ErrorMsg from "./components/general/ErrorMsg";
-import UserLoader from "./components/general/userLoader";
+import UserLoader from "./components/general/UserLoader";
 
 const App = () => {
 
